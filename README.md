@@ -1,77 +1,94 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:4c1d95,100:0a0a1a&height=200&section=header&text=Akemi&fontSize=70&fontColor=e9d5ff&fontAlignY=38&desc=闇に生まれて、星になる&descSize=18&descAlignY=60&descFontColor=a78bfa&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-# ✦ Akemi · kittishy
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=A78BFA&center=true&vCenter=true&width=540&lines=developer+%7C+designer+%7C+AI+integrations;data+engineering+%7C+UI%2FUX+%7C+Discord+bots;voice+automation+%7C+Twilio+%7C+Auria+AI;Solara+System+%E2%9C%A6+Shibuya%2C+Tokyo)](https://git.io/typing-svg)
 
-*闇に生まれて、星になる — born in darkness, becoming a star*
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=developer+%7C+designer+%7C+AI+integrations;data+engineering+%7C+UI%2FUX+%7C+Discord+bots;AI+voice+automation+%7C+Twilio+%7C+Auria;Solara+System+%E2%9C%A6+Shibuya%2C+Japan)](https://git.io/typing-svg)
-
-📍 **Shibuya, Tokyo — Japan** 🇯🇵
+`📍 Shibuya, Tokyo — Japan 🇯🇵`
 
 </div>
 
 ---
 
-## 🌙 about me
+## ˖ ݁𖥔 about
 
-Hi! I'm **Akemi**, 22 — developer, designer & AI integration specialist based in **Shibuya**.
+```yaml
+name:       Akemi
+age:        22
+location:   Shibuya, Tokyo
+identity:   developer · designer · creator · plural
+system:     Solara
+languages:  [ Japanese, Portuguese, English ]
+```
 
-I build health insurance platforms, create Discord bots for Brazilian communities, and design AI voice automation pipelines with Twilio & Auria. Background in data engineering and UI/UX design. Currently acting as tech lead on **Revier Academy** — a health plans education portal built with Next.js.
-
----
-
-## ⚡ tech stack
-
-**Frontend & UI**
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Backend & Data**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**AI & Automation**
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-black?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**DevOps & Tools**
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
+Developer and designer specializing in **AI integrations**, **data engineering** and **UI/UX**. I build health platforms, Discord bots for Brazilian communities, and voice automation pipelines. Currently tech lead on **Revier Academy** — a health plans education portal in Next.js.
 
 ---
 
-## 🚀 featured projects
+## ˖ ݁𖥔 tech stack
 
-### 📚 [Revier Academy](https://revier-academy.vercel.app)
-> Health insurance education portal — Next.js · Vercel
+<div align="center">
 
-10 product guides covering health, dental, life & pension plans. Full custom branding. Acting as tech lead.
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,mongodb,tailwind,html&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel,github,replit,discord&theme=dark&perline=8" />
 
----
-
-### 🤖 Plural System Dashboard *(WIP)*
-> Discord Bot + Next.js + MongoDB + Socket.io
-
-Real-time management dashboard for the **Solara** plural system. PluralKit as source of truth. Full accessibility support — high contrast, dyslexia font, reduced motion.
+</div>
 
 ---
 
-### 🎭 VTuber Project · Akemi *(in production)*
-> Cyberpunk-gothic channel · YouTube
+## ˖ ݁𖥔 featured projects
 
-Original character with a philosophical & podcast content format. Genshin Impact-inspired cyberpunk-gothic aesthetic.
+<div align="center">
+
+| project | stack | status |
+|:--------|:------|:------:|
+| **[📚 Revier Academy](https://revier-academy.vercel.app)** — health education portal | Next.js · Vercel | `live` |
+| **🤖 Plural System Dashboard** — real-time Solara system manager | Discord.js · Next.js · MongoDB · Socket.io | `wip` |
+| **🎭 VTuber · Akemi** — cyberpunk-gothic channel | YouTube | `active` |
+
+</div>
+
+<br/>
+
+> **Revier Academy** — 10 product guides across health, dental, life & pension plans. Full custom branding. Acting as sole tech lead.
+
+> **Plural System Dashboard** — PluralKit as source of truth. Full accessibility: high contrast, dyslexia font, reduced motion.
+
+> **VTuber · Akemi** — philosophical & podcast content format. Genshin Impact-inspired cyberpunk-gothic aesthetic.
 
 ---
 
-## 🎨 areas of expertise
+## ˖ ݁𖥔 stats
 
-`Data Engineering` · `UI/UX Design` · `Discord Bots (TypeScript)` · `SEO & Copywriting` · `AI Voice (Twilio · Auria)` · `TOTVS ERP` · `Yampi` · `Plural Systems`
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kittishy&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=67e8f9&text_color=c4b5fd&ring_color=7c3aed" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittishy&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd&langs_count=6" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kittishy&theme=midnight-purple&hide_border=true&background=0d0221&ring=7c3aed&fire=a78bfa&currStreakLabel=67e8f9&sideLabels=a78bfa&currStreakNum=e9d5ff&sideNums=c4b5fd&dates=6b7280" />
+
+</div>
+
+---
+
+## ˖ ݁𖥔 contribution
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kittishy/kittishy/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kittishy/kittishy/blob/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://github.com/kittishy/kittishy/blob/output/github-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -82,3 +99,5 @@ Original character with a philosophical & podcast content format. Genshin Impact
 **✦ developer · designer · creator · plural ✦**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,60:4c1d95,100:0d0221&height=120&section=footer" width="100%"/>
