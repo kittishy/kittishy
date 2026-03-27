@@ -20,7 +20,7 @@ age:        22
 location:   Shibuya, Tokyo
 identity:   developer · designer · creator · plural
 system:     Solara
-languages:  [ Japanese, Portuguese, English ]
+languages:  [ Japanese, Portuguese, English, Spanish ]
 ```
 
 Developer and designer specializing in **AI integrations**, **data engineering** and **UI/UX**. I build health platforms, Discord bots for Brazilian communities, and voice automation pipelines. Currently tech lead on **Revier Academy** — a health plans education portal in Next.js.
