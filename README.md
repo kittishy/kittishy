@@ -75,18 +75,6 @@ Original character with a philosophical & podcast content format. Genshin Impact
 
 ---
 
-## 📊 github stats
-
-<div align="center">
-
-![Akemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittishy&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=8b949e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittishy&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b949e)
-
-</div>
-
----
-
 <div align="center">
 
 *桜ヶ丘 · Solara System · Shibuya, Tokyo*
