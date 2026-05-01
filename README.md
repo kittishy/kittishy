@@ -48,7 +48,7 @@ Developer and designer specializing in **AI integrations**, **data engineering**
 | project | stack | status |
 |:--------|:------|:------:|
 | **[📚 Revier Academy](https://revier-academy.vercel.app)** — health education portal | Next.js · Vercel | `live` |
-| **🤖 Plural System Dashboard** — real-time Solara system manager | Discord.js · Next.js · MongoDB · Socket.io | `wip` |
+| **🤖 Solara Plural** — warm, private web app for plural systems | Next.js · TypeScript · Turso · Drizzle · NextAuth | `wip` |
 | **🎭 VTuber · Akemi** — cyberpunk-gothic channel | YouTube | `active` |
 
 </div>
@@ -57,7 +57,7 @@ Developer and designer specializing in **AI integrations**, **data engineering**
 
 > **Revier Academy** — 10 product guides across health, dental, life & pension plans. Full custom branding. Acting as sole tech lead.
 
-> **Plural System Dashboard** — PluralKit as source of truth. Full accessibility: high contrast, dyslexia font, reduced motion.
+> **Solara Plural — a warm, private web space for plural systems to organize, track, and care for their shared inner world with accessibility and humanity.
 
 > **VTuber · Akemi** — philosophical & podcast content format. Genshin Impact-inspired cyberpunk-gothic aesthetic.
 
