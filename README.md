@@ -57,7 +57,7 @@ Developer and designer specializing in **AI integrations**, **data engineering**
 
 > **Revier Academy** — 10 product guides across health, dental, life & pension plans. Full custom branding. Acting as sole tech lead.
 
-> **Solara Plural — a warm, private web space for plural systems to organize, track, and care for their shared inner world with accessibility and humanity.
+> **Solara Plural** — a warm, private web space for plural systems to organize, track, and care for their shared inner world with accessibility and humanity.
 
 > **VTuber · Akemi** — philosophical & podcast content format. Genshin Impact-inspired cyberpunk-gothic aesthetic.
 
