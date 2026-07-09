@@ -6,7 +6,7 @@
 
 <br/>
 
-`📍 Shibuya, Tokyo — Japan 🇯🇵`
+`📍 Rio de Janeiro — Brazil 🇧🇷`
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ```yaml
 name:       Akemi
-age:        22
+age:        23
 location:   Shibuya, Tokyo
 identity:   developer · designer · creator · plural
 system:     Solara
