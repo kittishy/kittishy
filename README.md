@@ -17,7 +17,7 @@
 ```yaml
 name:       Akemi
 age:        23
-location:   Shibuya, Tokyo
+location:   Rio de Janeiro, Brazil
 identity:   developer · designer · creator · plural
 system:     Solara
 languages:  [ Japanese, Portuguese, English, Spanish ]
